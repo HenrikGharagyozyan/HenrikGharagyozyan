@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Henrik 👋
 
-<!--
-**HenrikGharagyozyan/HenrikGharagyozyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+C++ Software Engineer focused on high-performance systems and Embedded Development.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 C/C++
+- ⚡ Embedded Systems
+- 🧠 Data Structures & Algorithms
+- 🔧 Custom STL
+- 🚀 Building Hydra Engine
+
+## Current Projects
+
+- Hydra Engine
+- MySTL
+- Custom Allocator
+- AVL Tree
+- Hash Table
+
+## Tech Stack
+
+- C++
+- C
+- Git
+- Linux
+- CMake
+- ESP32
+- FreeRTOS
+- AWS IoT
+
+## Goals
+
+- Build production-quality C++ projects
+- Learn multithreading
+- Build thread-safe smart pointers
+- Become a Senior C++ Engineer
+
+## Contact
+
+LinkedIn
+Email
