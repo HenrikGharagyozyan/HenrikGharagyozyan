@@ -24,24 +24,6 @@ Building high-performance software, custom C++ libraries, game engine architectu
 
 ---
 
-# 🛠 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,cs" />
-</p>
-
-### Embedded
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,git,docker" />
-</p>
-
-**ESP32 • ESP-IDF • FreeRTOS • MQTT**
-
----
-
 
 # 📫 Contact
 
