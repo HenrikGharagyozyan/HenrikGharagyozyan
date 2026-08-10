@@ -2,11 +2,10 @@
 
 # 👋 Hi, I'm Henrik Gharagyozyan
 
-### C++ Software Engineer • Embedded Systems Engineer
+### C++ Software Engineer · Embedded Systems
 
-Building high-performance software, custom C++ libraries, game engine architecture and embedded systems.
+Building high-performance C++ software — custom libraries, game engine architecture, and embedded systems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/HenrikGharagyozyan/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:henrik.gharagyozyan1@gmail.com)
 
@@ -14,21 +13,23 @@ Building high-performance software, custom C++ libraries, game engine architectu
 
 ---
 
-# 🚀 About Me
+## About
 
-- 💻 C/C++ Software Engineer
-- ⚙️ Embedded Systems Developer
-- 🧠 Data Structures & Algorithms enthusiast
-- 🎮 Building my own C++ Game Engine
-- 🔥 Passionate about low-level programming and performance optimization
+- C/C++ Software Engineer
+- Embedded Systems Developer
+- Building a C++ game engine
+- Focused on performance, low-level systems, and algorithms
 
 ---
 
+## Skills
 
-# 📫 Contact
+C++, STL, Embedded systems, Algorithms & data structures, Performance optimization
 
-📧 henrik.gharagyozyan1@gmail.com
+---
 
-💼 LinkedIn
+## Contact
 
-🌍 Armenia
+- Email: henrik.gharagyozyan1@gmail.com
+- LeetCode: https://leetcode.com/u/HenrikGharagyozyan/
+- Location: Armenia
