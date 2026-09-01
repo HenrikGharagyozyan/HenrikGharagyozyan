@@ -41,5 +41,5 @@ C++ Software Engineer specializing in **embedded systems**, **high-performance c
 ---
 
 <div align="center">
-  <sub>Built with ❤️ • Always learning • Open to collaboration</sub>
+  <sub>Always learning • Open to collaboration</sub>
 </div>
