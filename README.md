@@ -20,7 +20,7 @@ C++ Software Engineer specializing in **embedded systems**, **high-performance c
 
 ## 🛠️ Tech Stack
 
-- **Languages:** C++17/20, C, Python
+- **Languages:** C++11/14/17/20/23, C, Python
 - **AI/LLM:** LangChain, LangGraph
 - **Specializations:** Embedded Systems · Memory Optimization · STL · Algorithms & Data Structures
 - **Focus Areas:** Performance Optimization · High-Performance Computing · AI-Powered Applications
