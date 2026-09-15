@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Henrik Gharagyozyan
 
-### C++ Software Engineer | AI/LLM Developer | Embedded Systems
+### C++ Software Engineer | AI Engineer | Embedded Systems Engineer
 
 Building high-performance C++ software, AI-powered applications, and custom libraries.
 
